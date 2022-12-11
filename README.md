@@ -18,6 +18,3 @@ wiki
 
 da vidimo kako grana izgleda
 
-da l
-
-ggggg
