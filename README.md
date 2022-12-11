@@ -6,9 +6,9 @@ dfd
 gfgf
 nova linija
 
-igrati se sa granom
+
 spojiti je nayad pogledati drvo kako iygleda
-napraviti granu ali je iybristai
+
 issues
 vratiti se u proslost
 git tutorijal
@@ -18,3 +18,4 @@ wiki
 
 da vidimo kako grana izgleda
 
+fdsfa
