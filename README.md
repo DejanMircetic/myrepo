@@ -18,4 +18,8 @@ wiki
 
 da vidimo kako grana izgleda
 
+<<<<<<< HEAD
 fdsfadsadafsfsfddfds
+=======
+fdsfadsada
+>>>>>>> parent of bcb6b8c (#6)
