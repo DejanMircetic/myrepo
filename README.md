@@ -16,5 +16,5 @@ milestones
 wiki
 - 👉 [**Get Started**](https://wowchemy.com/templates/)
 
-
+da vidimo kako grana izgleda
 
