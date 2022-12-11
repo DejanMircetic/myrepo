@@ -18,4 +18,4 @@ wiki
 
 da vidimo kako grana izgleda
 
-fdsfadsada
+fdsfadsadafsfs
